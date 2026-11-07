@@ -1,7 +1,7 @@
 {
   "name": "omnigami-skill-finder",
   "displayName": "Skill finder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Recommend which omnigami skill fits a job for the user's own product, or say honestly that none does. Reads the product and the request, chooses from omnigami's published catalogue (a free skill whenever one meets the brief), and returns the install line, the first request filled in for the product, and one alternative with its trade-off. Use when the user asks which omnigami skill to use for a film, scene, image set or deck, or names this skill. It recommends only: it installs, buys and makes nothing.",
   "author": {
     "name": "omnigami",
