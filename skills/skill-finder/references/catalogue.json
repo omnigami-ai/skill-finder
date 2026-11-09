@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generated": "2026-11-08",
-  "sourceCommit": "b2611e0c6c7ec98ea5b17b13fc115682aa501f11+uncommitted",
+  "generated": "2026-11-09",
+  "sourceCommit": "7c82c97da5ef2ad91f141a3bd874e147bb37112b",
   "contentHash": "sha256:ec2a0e1a2001450b2ecb882019622560860a5c9549915f038b3b90c6a75f954c",
   "source": "https://omnigami.ai/llms.txt",
   "refresh": {
